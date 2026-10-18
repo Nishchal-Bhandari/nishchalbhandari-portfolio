@@ -1,0 +1,4 @@
+.tmp-tools/
+.qa/
+__pycache__/
+.md
